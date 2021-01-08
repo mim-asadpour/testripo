@@ -140,7 +140,10 @@
     <summary>پیاده سازی</summary>
   
  > ## پیاده سازی
- - []()
+ - [پیاده سازی اولیه و ابتدایی](https://github.com/mim-asadpour/resume-generator)
+ 
+  - [پیاده سازی نهایی و اصلاح شده (به زودی )]()
+  
   
 [<kbd>↩</kbd>](#TOC)
 </details>
