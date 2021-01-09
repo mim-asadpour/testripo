@@ -176,7 +176,7 @@
     <summary>(کار با لاتک) گزارش کار</summary>
   
  > ## (کار با لاتک) گزارش کار
- - [فایل تک](work report.tex)
+ - [فایل تک](workreport.tex)
   
 [<kbd>↩</kbd>](#TOC)
 </details>
